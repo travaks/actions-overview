@@ -1,2 +1,1 @@
-#Hello from my gh CLI!
-# actions-overview
+# Hello from my `gh` CLI!
